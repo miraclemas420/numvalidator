@@ -1,3 +1,7 @@
+
+<img width="1112" height="373" alt="Screenshot 2026-04-25 024408" src="https://github.com/user-attachments/assets/cb01018c-d2a5-4b1a-b5b2-093c0735fd32" />
+
+
 # 📱 Phone Number Validator (NumVerify API)
 
 A simple yet powerful Python tool that validates phone numbers using the NumVerify API.  
