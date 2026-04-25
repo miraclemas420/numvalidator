@@ -39,17 +39,19 @@ API_KEY = "your_real_api_key_here"
 ---
 
 📦 Installation
-Install required dependencies:
-pip install requests colorama
+
+Install required dependencies:  pip install requests colorama
 
 ---
 
 ⚠️ Notes
+
 Always use international format (with country code)
 
 Free NumVerify accounts may have request limits
 
 Some carrier or location data may be unavailable depending on region
 
-```python
-API_KEY = "YOUR_NUMVERIFY_API_KEY"
+⚠️ Disclaimer
+
+This tool is for educational and ethical security testing only.
